@@ -1,0 +1,27 @@
+>TITLE
+Test o koniach
+>FOLDER
+test_o_koniach
+>QUESTIONS
+Pytanie o rzeczy?
+>>A1: Odp1
+>>A2: Odp2
+>>A3: Odp3
+>>A4: Odp4
+Pytanie o inne rzeczy?
+>>A1: Odp1
+>>A2: Odp2
+>>A3: Odp3
+>>A4: Odp4
+>RESULTS
+>>10
+>>Tytuł
+>>Opis
+>>20
+>>Tytuł
+>>Opis
+>>INF
+>>Tytuł
+>>Opis
+>COMMENTS
+Opis quizu niewidoczny w aplikacji
